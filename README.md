@@ -1,9 +1,9 @@
 # CS320-Software-Test-automation-and-QA
-*** How can I ensure that my code, program, or software is functional and secure?
+### How can I ensure that my code, program, or software is functional and secure?
 <p> To ensure my code is functional and secure I would use debugging and testing techniques to verify the values of variables and that no overflows or logic errors
 orrur. I would use methods of testing such os white box of black box testing depending on what aspects of a program I am testing to ensure functionality. </p>
 
-*** How do I interpret user needs and incorporate them into a program?
+### How do I interpret user needs and incorporate them into a program?
 <p>Requirements gathering is in my opinion one of the most important steps in the SDLC. Without proper requirements gathering you can not ensure that you are meeting the customers needs. There are many different methods for requirements gathering such as interviews, indvidual or group survays, user observation etc. but the most important thing is to make sure you listen to your clients needs and attempt to deliver what the client truly needs. </p>
 
 ### How do I approach designing software?
